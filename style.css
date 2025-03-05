@@ -1,9 +1,10 @@
 .container{
-    border: solid 1px v;
-    padding: 20px;
-    margin: 0 auto;
+    border: dotted 2px green ;
+
+    
 }
 .inner_container{
+    border: solid 2px yellow;
     padding: 20px;
     margin: 5%;
 
